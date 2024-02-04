@@ -6,7 +6,9 @@ export default function Home() {
   return (
     <>
     <MaxWidthWrapper>
-    <p>Hello world</p>
+    <div className="flex flex-col py-20 text-center mx-auto">
+      <h1>SOmething</h1>
+    </div>
     </MaxWidthWrapper>
     </>
   );
