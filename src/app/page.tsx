@@ -11,6 +11,7 @@ export default function Home() {
       <span className="text-blue-400">
       high quality assets
       </span></h1>
+      <p>Testing push</p>
     </div>
     </MaxWidthWrapper>
     </>
